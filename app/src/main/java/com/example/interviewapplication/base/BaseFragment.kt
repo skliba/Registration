@@ -1,4 +1,4 @@
-package com.example.interviewapplication
+package com.example.interviewapplication.base
 
 import android.os.Bundle
 import android.view.LayoutInflater

@@ -1,7 +1,9 @@
-package com.example.interviewapplication
+package com.example.interviewapplication.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.interviewapplication.R
+import timber.log.Timber
 
 class MainActivity : AppCompatActivity() {
 
